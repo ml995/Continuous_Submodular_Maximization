@@ -2,7 +2,7 @@
 
 Update:
 
-This repository is now **DEPRECATED**. All functions can be found in the new well-documented repository [lchen91/Submodular_Utilities](https://github.com/lchen91/Submodular_Utilities).
+This repository is now **DEPRECATED**. All functions can be found in the new well-documented repository [lchen91/SubmodularUtilities.jl](https://github.com/lchen91/SubmodularUtilities.jl).
 
 =======
 
