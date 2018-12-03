@@ -2,7 +2,7 @@
 
 Update:
 
-This repository is now **deprecated**. All functions can be found in the new well-documented repository [lchen91/Submodular_Utilities](https://github.com/lchen91/Submodular_Utilities).
+This repository is now **DEPRECATED**. All functions can be found in the new well-documented repository [lchen91/Submodular_Utilities](https://github.com/lchen91/Submodular_Utilities).
 
 =======
 This repository contains implementation of continuous submodular maximization algorithms published in the following papers:
